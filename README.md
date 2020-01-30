@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/234885191.svg)](https://zenodo.org/badge/latestdoi/234885191)
+
 # Wikipedia_TF_IDF_Dataset
 Pre-computed IDF stats over all EN Wiki articles.
 
